@@ -13,13 +13,6 @@ I'm Izhar Ali.
 </p>
 
 ---
-<div align="center">
-    
-[![Izhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark&hide_border=true)](https://github.com/ali-izhar/github-readme-stats)
-
-</div>
-
----
 
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
@@ -55,4 +48,7 @@ I'm Izhar Ali.
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
+    
+[![Izhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark&hide_border=true)](https://github.com/ali-izhar/github-readme-stats)
+    
 </div>
