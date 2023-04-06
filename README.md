@@ -13,6 +13,8 @@ I'm Izhar Ali.
 </p>
 
 ---
+[![Izhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark&hide_border=true)](https://github.com/ali-izhar/github-readme-stats)
+---
 
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
