@@ -45,10 +45,10 @@ I'm Izhar Ali.
 </div>
 
 ---
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
-    
-[![Izhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark&hide_border=true)](https://github.com/ali-izhar/github-readme-stats)
-    
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark" alt="Izhar's GitHub stats" />
+  </div>
 </div>
