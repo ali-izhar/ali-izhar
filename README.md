@@ -48,7 +48,8 @@ I'm Izhar Ali.
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark" alt="Izhar's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525" alt="GitHub Streak" style="width: 50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark" alt="Izhar's GitHub stats" style="width: 50%" />
   </div>
 </div>
+
