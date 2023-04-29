@@ -35,6 +35,7 @@ I'm Izhar Ali.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j" alt="Neo4j" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
 </div>
 
@@ -49,7 +50,6 @@ I'm Izhar Ali.
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525" alt="GitHub Streak" style="width: 50%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ali-izhar&show_icons=true&theme=onedark" alt="Izhar's GitHub stats" style="width: 50%" />
   </div>
 </div>
 
