@@ -52,4 +52,3 @@ I'm Izhar Ali.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-izhar&theme=neon-palenight&background=#252525" alt="GitHub Streak" style="width: 50%" />
   </div>
 </div>
-
