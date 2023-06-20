@@ -1,9 +1,9 @@
 # Hello!
 
 I'm Izhar Ali.
-- 💼 Working as a Student Researcher at [BMS](https://www.bms.com/)  
-- 👨‍🎓 Pursuing B.S. in Computer Science (2020-2024) from [Rowan University](https://www.rowan.edu/)
-- 👨‍🎓 Pursuing B.A. in Mathematics (2020-2024) from [Rowan University](https://www.rowan.edu/)
+- 💼 Working as NLP Researcher / Software Developer at [BMS](https://www.bms.com/)  
+- 👨‍🎓 B.S. Computer Science (+1 Masters) at [Rowan University](https://www.rowan.edu/)
+- 👨‍🎓 B.A. Mathematics at [Rowan University](https://www.rowan.edu/)
 - 📚 Concentrations in Artificial Intelligence and Statistics
 
 <p align="center"> 
