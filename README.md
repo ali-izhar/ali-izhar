@@ -40,12 +40,6 @@ I'm Izhar Ali.
 </div>
 
 ---
- <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
- <div align="center">
- <img src="https://profile-counter.glitch.me/{ali-izhar}/count.svg" alt="izhar-ali" />
-</div>
-
----
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
