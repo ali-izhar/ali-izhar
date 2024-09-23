@@ -1,10 +1,6 @@
 # Hello!
 
-I'm Izhar Ali.
-- 💼 Working as NLP Researcher / Software Developer at [BMS](https://www.bms.com/)  
-- 👨‍🎓 B.S. Computer Science (+1 Masters) at [Rowan University](https://www.rowan.edu/)
-- 👨‍🎓 B.A. Mathematics at [Rowan University](https://www.rowan.edu/)
-- 📚 Concentrations in Artificial Intelligence and Statistics
+I'm Izhar. I specialize in applying deep learning to agile software systems, developing applied NLP solutions, and full-stack software development.
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/ali-izhar/" target="_blank"/>
